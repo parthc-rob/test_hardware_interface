@@ -1,0 +1,6 @@
+test:
+    hardware_interface:
+	loop_hz: 10 #hz
+	joints:
+	    - robot_joint_1
+	    - robot_joint_2
